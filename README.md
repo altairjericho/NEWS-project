@@ -3,4 +3,5 @@
 Repository for NEWS related files and reports
 * probe1.ipynb is a _notebook_ with pre-NN study of samples.
 * RandForest.ipynd is a _notebook_ dedicated to experiments with RandomForest algorythm.
+* ExploringData.ipynb is a _notebook_ studying the features of dataset: histograms, scatter plots, etc.
 * newsml.pdf is a current state of more detailed report on the study. (not up-to-date)

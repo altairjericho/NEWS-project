@@ -1,7 +1,7 @@
 # NEWS-project
 
 Repository for NEWS related files and reports
-* probe1.ipynb is a _notebook_ with pre-NN study of samples.
-* RandForest.ipynd is a _notebook_ dedicated to experiments with RandomForest algorythm.
-* ExploringData.ipynb is a _notebook_ studying the features of dataset: histograms, scatter plots, etc.
-* newsml.pdf is a current state of more detailed report on the study. (not up-to-date)
+* **Forest** is a repository with notebooks of pre-NN study using ensembles of trees.
+* **CNN** is a repository with notebooks of research using ConvNets.
+* **results** is a repository with plots and other outputs of the algorithms.
+* NEWS_ML.pdf is a current state of report on the study.
